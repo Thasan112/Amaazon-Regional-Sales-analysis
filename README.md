@@ -78,10 +78,8 @@ This project analyzes Amazon’s sales data from 2014 to 2018 to identify key re
 2. Explore visualizations to understand trends and seasonality
 3. Apply recommendations to pricing, promotion, and expansion strategies
 
-## Future Enhancements
 
-* Incorporate customer-level data for deeper behavioral insights
-* Extend analysis beyond 2018 for more recent trends
+## Future Enhancements
 * Apply predictive modeling for demand forecasting
 
 
